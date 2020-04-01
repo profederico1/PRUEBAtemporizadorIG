@@ -1,0 +1,2 @@
+# PRUEBAtemporizadorIG
+Clonar temporizador 
